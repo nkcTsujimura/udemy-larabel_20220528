@@ -1,5 +1,14 @@
-# nkc-lecture-proj
-2022/05/17 Tsujimura
+# udemy-larabel_20220528
+
+2022/05/29 Tsujimura
+
+NKCでのお問い合わせフォームのコンテナ構成を基に環境構築。
+webコンテナにnodejsを追加している。
+
+以下転用
+//////////////////////////////////////////////////
+
+
 以下のURLを参考に環境を構築した。（Dockerfile, docker-compose.ymlのみカスタマイズ）</br>
 https://qiita.com/A-Kira/items/9a03d7b230741ed7b1de
 
